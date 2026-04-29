@@ -1,0 +1,19 @@
+python3 run_train.py \
+  --method TEAM \
+  --backbone ViT \
+  --learning_rate 1e-3 \
+  --shot 5 \
+  --agg_num 70 \
+  --num_workers 4 \
+  --tasks_per_batch 1 \
+  --query_per_class 4 \
+  --seq_len 5 \
+  --training_iterations 10000 \
+  --num_test_tasks 1000 \
+  --dataset Finesports_FSAR \
+  --traj_lam 0.3 \
+  --traj_lbda 0.3 \
+  --traj_dim  6 \
+  --traj_mode traj_seq \
+  --traj_root /Datasets/Traj/traj_npz_yolo/finesports \
+  --use_traj

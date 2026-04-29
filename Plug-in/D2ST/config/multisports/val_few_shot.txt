@@ -1,0 +1,969 @@
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_-6Os86HzwCs_c001_001.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_-6Os86HzwCs_c001_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-6Os86HzwCs_c001_011.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_-6Os86HzwCs_c001_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-6Os86HzwCs_c002_002.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_-6Os86HzwCs_c003_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-6Os86HzwCs_c003_009.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_-6Os86HzwCs_c004_008.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_-6Os86HzwCs_c004_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-6Os86HzwCs_c004_012.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_-6Os86HzwCs_c007_001.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_-6Os86HzwCs_c010_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-9kabh1K8UA_c002_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_-9kabh1K8UA_c002_005.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_-9kabh1K8UA_c002_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_-9kabh1K8UA_c003_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_-9kabh1K8UA_c004_001.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_-9kabh1K8UA_c004_005.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_-9kabh1K8UA_c006_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-9kabh1K8UA_c008_007.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_-9kabh1K8UA_c008_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-9kabh1K8UA_c009_008.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_-9kabh1K8UA_c009_024.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_-9kabh1K8UA_c010_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-9kabh1K8UA_c010_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-9kabh1K8UA_c010_013.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_-9kabh1K8UA_c010_014.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_-9kabh1K8UA_c010_020.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_-9kabh1K8UA_c600_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_-9kabh1K8UA_c601_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_-9kabh1K8UA_c602_002.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_-9kabh1K8UA_c602_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c001_006.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_00HRwkvvjtQ_c001_007.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_00HRwkvvjtQ_c001_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c001_017.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c001_030.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_00HRwkvvjtQ_c001_031.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_00HRwkvvjtQ_c001_040.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_00HRwkvvjtQ_c001_041.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_00HRwkvvjtQ_c001_045.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_00HRwkvvjtQ_c001_051.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_00HRwkvvjtQ_c002_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c003_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c003_014.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_00HRwkvvjtQ_c003_022.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_00HRwkvvjtQ_c003_023.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_00HRwkvvjtQ_c003_024.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_00HRwkvvjtQ_c003_028.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_00HRwkvvjtQ_c003_032.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c003_034.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c003_036.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_00HRwkvvjtQ_c003_045.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_00HRwkvvjtQ_c003_049.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_00HRwkvvjtQ_c004_001.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_00HRwkvvjtQ_c004_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c005_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_00HRwkvvjtQ_c005_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c007_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_00HRwkvvjtQ_c007_004.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_00HRwkvvjtQ_c007_006.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_00HRwkvvjtQ_c007_013.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_00HRwkvvjtQ_c008_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c009_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c009_007.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_00HRwkvvjtQ_c010_001.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_00HRwkvvjtQ_c011_018.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_00HRwkvvjtQ_c011_021.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c011_026.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c011_028.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_00HRwkvvjtQ_c011_030.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_00HRwkvvjtQ_c015_001.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_2BhBRkkAqbQ_c001_010.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_2BhBRkkAqbQ_c002_011.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_2BhBRkkAqbQ_c002_017.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2BhBRkkAqbQ_c003_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2BhBRkkAqbQ_c004_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_2BhBRkkAqbQ_c004_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2BhBRkkAqbQ_c004_006.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_2BhBRkkAqbQ_c005_006.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_2BhBRkkAqbQ_c005_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_2BhBRkkAqbQ_c006_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2j7kLB-vEEk_c001_005.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_2j7kLB-vEEk_c001_013.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_2j7kLB-vEEk_c002_0180.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_2j7kLB-vEEk_c002_020.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2j7kLB-vEEk_c002_026.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2j7kLB-vEEk_c004_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2j7kLB-vEEk_c005_012.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_2j7kLB-vEEk_c005_026.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_2j7kLB-vEEk_c006_008.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_2j7kLB-vEEk_c006_009.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_2j7kLB-vEEk_c007_001.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_2j7kLB-vEEk_c007_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2j7kLB-vEEk_c007_016.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_2j7kLB-vEEk_c008_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_2j7kLB-vEEk_c009_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_2j7kLB-vEEk_c009_011.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_2j7kLB-vEEk_c009_013.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_2j7kLB-vEEk_c009_031.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_2j7kLB-vEEk_c010_009.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_42VrMbd68Zg_c003_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_42VrMbd68Zg_c003_013.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_42VrMbd68Zg_c003_017.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_42VrMbd68Zg_c003_019.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_42VrMbd68Zg_c003_020.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_42VrMbd68Zg_c003_025.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_42VrMbd68Zg_c003_031.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_42VrMbd68Zg_c003_036.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_42VrMbd68Zg_c003_056.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_42VrMbd68Zg_c003_063.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_42VrMbd68Zg_c003_065.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_42VrMbd68Zg_c003_072.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_42VrMbd68Zg_c003_073.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_42VrMbd68Zg_c003_080.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_42VrMbd68Zg_c003_085.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_42VrMbd68Zg_c003_088.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_42VrMbd68Zg_c003_089.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_42VrMbd68Zg_c004_017.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_42VrMbd68Zg_c008_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_42VrMbd68Zg_c011_016.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_42VrMbd68Zg_c011_021.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_42VrMbd68Zg_c012_014.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_42VrMbd68Zg_c012_019.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_42VrMbd68Zg_c012_020.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_42VrMbd68Zg_c012_021.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_42VrMbd68Zg_c012_026.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_42VrMbd68Zg_c013_008.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_42VrMbd68Zg_c015_001.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_4LXTUim5anY_c001_003.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_4LXTUim5anY_c001_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_4LXTUim5anY_c002_007.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_4LXTUim5anY_c006_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4LXTUim5anY_c007_005.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_4LXTUim5anY_c007_007.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_4LXTUim5anY_c008_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4LXTUim5anY_c009_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4LXTUim5anY_c010_009.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4LXTUim5anY_c011_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4LXTUim5anY_c011_007.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_4LXTUim5anY_c012_002.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_4LXTUim5anY_c012_009.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_4LXTUim5anY_c012_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4LXTUim5anY_c012_019.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_4LXTUim5anY_c012_023.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_4LXTUim5anY_c012_024.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4LXTUim5anY_c014_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4LXTUim5anY_c015_003.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_4nikeBZNYRE_c002_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4nikeBZNYRE_c003_002.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_4nikeBZNYRE_c003_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4nikeBZNYRE_c005_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4nikeBZNYRE_c006_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4nikeBZNYRE_c006_003.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_4nikeBZNYRE_c006_004.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_4r8QL_wglzQ_c001_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4r8QL_wglzQ_c001_010.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_4r8QL_wglzQ_c001_013.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_4r8QL_wglzQ_c001_015.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4r8QL_wglzQ_c002_001.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_4r8QL_wglzQ_c005_001.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_4r8QL_wglzQ_c005_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_4r8QL_wglzQ_c005_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_4r8QL_wglzQ_c005_007.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_4r8QL_wglzQ_c006_002.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_4r8QL_wglzQ_c006_004.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_4r8QL_wglzQ_c009_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c001_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c001_013.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_5ekaksddqrc_c001_020.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_5ekaksddqrc_c002_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c002_006.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_5ekaksddqrc_c002_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c002_016.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_5ekaksddqrc_c003_005.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_5ekaksddqrc_c003_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c003_014.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_5ekaksddqrc_c003_027.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c003_031.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_5ekaksddqrc_c003_037.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_5ekaksddqrc_c004_012.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_5ekaksddqrc_c004_017.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_5ekaksddqrc_c004_022.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_5ekaksddqrc_c005_002.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_5ekaksddqrc_c005_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c005_012.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_5ekaksddqrc_c005_016.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c005_025.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_5ekaksddqrc_c005_027.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_5ekaksddqrc_c005_028.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_5ekaksddqrc_c005_031.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_5ekaksddqrc_c005_032.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c006_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_5ekaksddqrc_c006_003.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_5ekaksddqrc_c006_005.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_5ekaksddqrc_c007_009.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_5ekaksddqrc_c008_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_5ekaksddqrc_c008_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_5ekaksddqrc_c010_005.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_5ekaksddqrc_c010_006.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_6OLC1-bhioc_c001_022.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_6OLC1-bhioc_c001_023.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6OLC1-bhioc_c002_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c002_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c003_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_6OLC1-bhioc_c003_020.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c003_021.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c003_025.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_6OLC1-bhioc_c004_002.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6OLC1-bhioc_c004_004.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_6OLC1-bhioc_c005_005.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_6OLC1-bhioc_c005_007.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6OLC1-bhioc_c005_009.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_6OLC1-bhioc_c005_010.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6OLC1-bhioc_c005_014.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_6OLC1-bhioc_c005_016.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_6OLC1-bhioc_c005_018.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_6OLC1-bhioc_c005_028.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_6OLC1-bhioc_c008_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c008_002.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_6OLC1-bhioc_c008_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c008_007.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_6OLC1-bhioc_c010_004.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6OLC1-bhioc_c011_007.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_6OLC1-bhioc_c011_021.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c012_004.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_6OLC1-bhioc_c012_011.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_6OLC1-bhioc_c012_016.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_6OLC1-bhioc_c012_019.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6OLC1-bhioc_c013_015.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_6OLC1-bhioc_c013_021.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6OLC1-bhioc_c014_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_6OLC1-bhioc_c015_003.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6oTxfzKdG6Q_c003_003.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_6oTxfzKdG6Q_c003_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6oTxfzKdG6Q_c004_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6oTxfzKdG6Q_c006_006.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_6oTxfzKdG6Q_c006_007.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_6oTxfzKdG6Q_c015_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_6oTxfzKdG6Q_c015_013.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_6oTxfzKdG6Q_c015_019.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c001_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c004_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_7FTsO8S3h88_c004_003.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_7FTsO8S3h88_c004_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_7FTsO8S3h88_c005_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_7FTsO8S3h88_c005_015.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c005_020.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c006_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c006_012.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c006_018.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_7FTsO8S3h88_c006_019.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c007_003.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_7FTsO8S3h88_c007_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c008_003.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_7FTsO8S3h88_c008_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_7FTsO8S3h88_c008_015.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_7FTsO8S3h88_c009_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_7FTsO8S3h88_c010_005.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_82WN8C8qJmI_c002_001.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_82WN8C8qJmI_c002_003.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_82WN8C8qJmI_c002_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_82WN8C8qJmI_c002_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_82WN8C8qJmI_c002_012.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_82WN8C8qJmI_c003_005.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_82WN8C8qJmI_c004_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_82WN8C8qJmI_c004_004.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_82WN8C8qJmI_c004_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_82WN8C8qJmI_c005_006.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_82WN8C8qJmI_c006_001.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_82WN8C8qJmI_c006_005.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_82WN8C8qJmI_c006_006.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_82WN8C8qJmI_c006_007.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_82WN8C8qJmI_c007_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_82WN8C8qJmI_c014_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_82WN8C8qJmI_c014_011.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_82WN8C8qJmI_c014_017.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_82WN8C8qJmI_c015_003.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_A4OJhlI6hgc_c001_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_A4OJhlI6hgc_c001_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_A4OJhlI6hgc_c001_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_A4OJhlI6hgc_c001_021.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_A4OJhlI6hgc_c002_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_A4OJhlI6hgc_c002_014.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_A4OJhlI6hgc_c003_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_A4OJhlI6hgc_c003_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_A4OJhlI6hgc_c003_011.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_A4OJhlI6hgc_c005_002.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_A4OJhlI6hgc_c005_010.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_A4OJhlI6hgc_c005_020.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c003_001.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_BdD9xu0E2H4_c003_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c003_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c003_007.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_BdD9xu0E2H4_c003_012.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_BdD9xu0E2H4_c003_013.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c003_020.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c003_021.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_BdD9xu0E2H4_c003_022.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_BdD9xu0E2H4_c004_003.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_BdD9xu0E2H4_c004_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c005_004.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_BdD9xu0E2H4_c006_006.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_BdD9xu0E2H4_c006_008.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_BdD9xu0E2H4_c006_010.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_BdD9xu0E2H4_c006_011.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c007_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c008_006.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_BdD9xu0E2H4_c010_009.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_BdD9xu0E2H4_c010_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c011_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c011_019.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_BdD9xu0E2H4_c013_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c013_017.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c013_018.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_BdD9xu0E2H4_c013_020.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_BdD9xu0E2H4_c013_023.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c601_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c601_005.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_BdD9xu0E2H4_c606_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BdD9xu0E2H4_c606_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BdD9xu0E2H4_c606_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c002_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BgwzTUxJaeU_c002_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c002_011.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_BgwzTUxJaeU_c002_014.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_BgwzTUxJaeU_c007_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c007_002.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_BgwzTUxJaeU_c007_005.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_BgwzTUxJaeU_c007_006.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_BgwzTUxJaeU_c008_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_BgwzTUxJaeU_c008_006.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_BgwzTUxJaeU_c008_007.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_BgwzTUxJaeU_c008_009.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_BgwzTUxJaeU_c008_012.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_BgwzTUxJaeU_c008_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c009_002.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_BgwzTUxJaeU_c010_004.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_BgwzTUxJaeU_c010_008.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_BgwzTUxJaeU_c011_005.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_BgwzTUxJaeU_c011_012.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_BgwzTUxJaeU_c012_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c012_002.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_BgwzTUxJaeU_c012_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c012_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c013_003.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_BgwzTUxJaeU_c013_005.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_BgwzTUxJaeU_c013_008.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_BgwzTUxJaeU_c014_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_BgwzTUxJaeU_c014_013.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_BgwzTUxJaeU_c014_022.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_BgwzTUxJaeU_c015_005.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_C94HDW9HYzU_c001_011.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_C94HDW9HYzU_c002_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c002_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c002_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_C94HDW9HYzU_c003_001.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_C94HDW9HYzU_c004_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c006_004.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_C94HDW9HYzU_c006_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c007_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_C94HDW9HYzU_c007_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c007_012.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_C94HDW9HYzU_c007_016.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c009_002.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_C94HDW9HYzU_c009_006.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_C94HDW9HYzU_c009_007.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_C94HDW9HYzU_c010_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c010_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_C94HDW9HYzU_c010_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c010_013.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_C94HDW9HYzU_c013_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_C94HDW9HYzU_c014_002.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_C94HDW9HYzU_c014_012.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_DC3D_JZQUqQ_c003_005.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_DC3D_JZQUqQ_c003_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_DC3D_JZQUqQ_c004_002.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_DC3D_JZQUqQ_c004_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_DC3D_JZQUqQ_c007_001.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_DC3D_JZQUqQ_c008_003.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_DC3D_JZQUqQ_c009_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_DC3D_JZQUqQ_c009_006.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_DC3D_JZQUqQ_c009_010.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_DC3D_JZQUqQ_c010_007.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_DC3D_JZQUqQ_c010_008.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_DC3D_JZQUqQ_c011_013.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_DC3D_JZQUqQ_c012_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_DC3D_JZQUqQ_c014_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_EGtCLk5BksU_c005_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_EGtCLk5BksU_c005_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_EGtCLk5BksU_c007_008.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_EGtCLk5BksU_c008_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_EGtCLk5BksU_c008_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_EGtCLk5BksU_c010_004.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_EGtCLk5BksU_c010_012.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_EGtCLk5BksU_c011_002.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_EGtCLk5BksU_c012_009.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_EGtCLk5BksU_c013_005.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_EGtCLk5BksU_c013_011.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_EGtCLk5BksU_c014_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_EGtCLk5BksU_c601_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_EGtCLk5BksU_c602_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_EGtCLk5BksU_c602_008.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_EGtCLk5BksU_c603_004.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_EGtCLk5BksU_c603_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_EGtCLk5BksU_c603_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_EGtCLk5BksU_c603_009.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_EGtCLk5BksU_c604_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_EGtCLk5BksU_c605_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_EGtCLk5BksU_c605_004.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_EGtCLk5BksU_c607_006.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_EGtCLk5BksU_c608_006.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_EGtCLk5BksU_c608_007.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_EGtCLk5BksU_c608_009.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_ERsBxGv2JxY_c001_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_ERsBxGv2JxY_c001_005.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_ERsBxGv2JxY_c001_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_ERsBxGv2JxY_c005_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_ERsBxGv2JxY_c005_011.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_ERsBxGv2JxY_c005_015.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_ERsBxGv2JxY_c006_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_ERsBxGv2JxY_c006_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_ERsBxGv2JxY_c014_007.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_ERsBxGv2JxY_c014_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_ERsBxGv2JxY_c014_011.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_ERsBxGv2JxY_c015_008.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_ERsBxGv2JxY_c015_019.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_FH9KE8FSmig_c001_016.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_FH9KE8FSmig_c002_007.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_FH9KE8FSmig_c004_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_FH9KE8FSmig_c005_003.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_FH9KE8FSmig_c005_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_FH9KE8FSmig_c005_017.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_FH9KE8FSmig_c005_020.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_FH9KE8FSmig_c010_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_FH9KE8FSmig_c011_005.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_FH9KE8FSmig_c011_0090.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_FH9KE8FSmig_c011_011.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_FH9KE8FSmig_c014_009.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_HBJ9u9B1v3A_c001_007.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_HBJ9u9B1v3A_c003_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_HBJ9u9B1v3A_c005_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_HBJ9u9B1v3A_c005_003.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_HBJ9u9B1v3A_c005_005.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_HBJ9u9B1v3A_c006_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_HBJ9u9B1v3A_c007_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_HBJ9u9B1v3A_c007_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_HBJ9u9B1v3A_c007_009.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_HBJ9u9B1v3A_c008_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_HBJ9u9B1v3A_c009_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_HBJ9u9B1v3A_c009_005.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_HBJ9u9B1v3A_c009_007.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_HBJ9u9B1v3A_c009_011.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_HBJ9u9B1v3A_c010_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_HBJ9u9B1v3A_c010_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_I-tZTTBt3rc_c001_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_I-tZTTBt3rc_c001_002.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_I-tZTTBt3rc_c001_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_I-tZTTBt3rc_c002_008.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_I-tZTTBt3rc_c002_010.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_I-tZTTBt3rc_c002_011.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_I-tZTTBt3rc_c002_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_I-tZTTBt3rc_c002_017.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_I-tZTTBt3rc_c003_008.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_I-tZTTBt3rc_c003_015.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_I-tZTTBt3rc_c003_018.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_I-tZTTBt3rc_c004_003.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_I-tZTTBt3rc_c004_005.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_I-tZTTBt3rc_c006_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_I-tZTTBt3rc_c006_025.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_I-tZTTBt3rc_c010_010.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_I-tZTTBt3rc_c010_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c001_005.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_InvO0NFpSIw_c001_012.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_InvO0NFpSIw_c001_022.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_InvO0NFpSIw_c002_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c006_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_InvO0NFpSIw_c006_016.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_InvO0NFpSIw_c008_001.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_InvO0NFpSIw_c008_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c008_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c008_006.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_InvO0NFpSIw_c008_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c010_003.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_InvO0NFpSIw_c015_003.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_InvO0NFpSIw_c600_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c600_010.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_InvO0NFpSIw_c601_007.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_InvO0NFpSIw_c603_002.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_InvO0NFpSIw_c605_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_InvO0NFpSIw_c606_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c607_001.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_InvO0NFpSIw_c607_003.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_InvO0NFpSIw_c607_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_InvO0NFpSIw_c607_007.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_It_vvQR6RPM_c001_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c002_001.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_It_vvQR6RPM_c002_004.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_It_vvQR6RPM_c003_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c003_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c003_017.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_It_vvQR6RPM_c005_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c005_005.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_It_vvQR6RPM_c005_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c007_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c007_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c008_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_It_vvQR6RPM_c009_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_It_vvQR6RPM_c009_008.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_It_vvQR6RPM_c012_010.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_It_vvQR6RPM_c013_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_It_vvQR6RPM_c013_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c013_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c014_007.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_It_vvQR6RPM_c014_011.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_It_vvQR6RPM_c015_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c015_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c600_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c600_007.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_It_vvQR6RPM_c601_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_It_vvQR6RPM_c602_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c602_002.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_It_vvQR6RPM_c603_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c603_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_It_vvQR6RPM_c603_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_JbiWR0AWKys_c001_004.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_JbiWR0AWKys_c001_006.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_JbiWR0AWKys_c001_009.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_JbiWR0AWKys_c003_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_JbiWR0AWKys_c005_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_JbiWR0AWKys_c005_006.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_JbiWR0AWKys_c005_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_JbiWR0AWKys_c005_013.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_JbiWR0AWKys_c005_016.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_JbiWR0AWKys_c005_017.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_JbiWR0AWKys_c007_001.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_JbiWR0AWKys_c008_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_JbiWR0AWKys_c009_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_JbiWR0AWKys_c009_008.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_JbiWR0AWKys_c010_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_JbiWR0AWKys_c010_006.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_K5PFNpiP5aY_c004_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_K5PFNpiP5aY_c004_007.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_K5PFNpiP5aY_c004_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_K5PFNpiP5aY_c005_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_K5PFNpiP5aY_c009_003.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_K5PFNpiP5aY_c009_007.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_K5PFNpiP5aY_c009_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_K5PFNpiP5aY_c010_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_K5PFNpiP5aY_c010_006.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_K5PFNpiP5aY_c010_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c002_001.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_SHFVKZ6HJc8_c002_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c002_007.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_SHFVKZ6HJc8_c002_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c003_007.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_SHFVKZ6HJc8_c003_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c003_015.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_SHFVKZ6HJc8_c003_024.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_SHFVKZ6HJc8_c004_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c004_013.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_SHFVKZ6HJc8_c004_027.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_SHFVKZ6HJc8_c005_001.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_SHFVKZ6HJc8_c005_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c006_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c008_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c008_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c009_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c009_006.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_SHFVKZ6HJc8_c010_002.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_SHFVKZ6HJc8_c010_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c010_004.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_SHFVKZ6HJc8_c010_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_SHFVKZ6HJc8_c011_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c012_006.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_SHFVKZ6HJc8_c012_007.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_SHFVKZ6HJc8_c012_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c012_024.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_SHFVKZ6HJc8_c601_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c602_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_SHFVKZ6HJc8_c602_007.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_SHFVKZ6HJc8_c603_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c002_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_UPbRcF0SSo0_c002_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_UPbRcF0SSo0_c002_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c002_008.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_UPbRcF0SSo0_c002_011.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c004_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_UPbRcF0SSo0_c004_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c004_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c004_009.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_UPbRcF0SSo0_c005_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c007_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_UPbRcF0SSo0_c007_010.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c008_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_UPbRcF0SSo0_c008_010.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_UPbRcF0SSo0_c009_009.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_UPbRcF0SSo0_c009_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_UPbRcF0SSo0_c009_012.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c009_015.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c010_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_UPbRcF0SSo0_c010_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_V4tIg2zSbWU_c001_013.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_V4tIg2zSbWU_c002_001.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_V4tIg2zSbWU_c002_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_V4tIg2zSbWU_c002_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_V4tIg2zSbWU_c002_013.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_V4tIg2zSbWU_c002_014.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_V4tIg2zSbWU_c002_016.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_V4tIg2zSbWU_c002_021.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_V4tIg2zSbWU_c003_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_V4tIg2zSbWU_c005_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_V4tIg2zSbWU_c005_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_V4tIg2zSbWU_c006_002.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_V4tIg2zSbWU_c006_009.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_V4tIg2zSbWU_c007_001.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_V4tIg2zSbWU_c008_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_V4tIg2zSbWU_c008_010.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_V4tIg2zSbWU_c009_002.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_V4tIg2zSbWU_c009_003.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_V4tIg2zSbWU_c009_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_V4tIg2zSbWU_c010_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_V4tIg2zSbWU_c010_007.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_V4tIg2zSbWU_c010_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_V4tIg2zSbWU_c010_011.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_V4tIg2zSbWU_c010_012.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_V4tIg2zSbWU_c010_014.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_V4tIg2zSbWU_c010_017.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_V4tIg2zSbWU_c010_024.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_aVfJwdQxCsU_c001_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_aVfJwdQxCsU_c001_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c001_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_aVfJwdQxCsU_c001_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c001_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c001_013.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_aVfJwdQxCsU_c001_018.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_aVfJwdQxCsU_c001_019.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_aVfJwdQxCsU_c002_001.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_aVfJwdQxCsU_c002_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_aVfJwdQxCsU_c003_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c003_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c005_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_aVfJwdQxCsU_c005_010.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_aVfJwdQxCsU_c005_011.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_aVfJwdQxCsU_c006_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c007_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c007_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_aVfJwdQxCsU_c008_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_aVfJwdQxCsU_c008_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_aVfJwdQxCsU_c008_009.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_aVfJwdQxCsU_c012_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_aVfJwdQxCsU_c014_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_aVfJwdQxCsU_c014_005.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_aVfJwdQxCsU_c014_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_aVfJwdQxCsU_c014_008.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_aVfJwdQxCsU_c015_001.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_aVfJwdQxCsU_c015_010.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_aVfJwdQxCsU_c015_015.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_bQNDRprvpus_c001_016.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_bQNDRprvpus_c003_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_bQNDRprvpus_c003_013.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_bQNDRprvpus_c005_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_bQNDRprvpus_c005_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_bQNDRprvpus_c005_007.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_bQNDRprvpus_c005_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_bQNDRprvpus_c006_002.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_bQNDRprvpus_c006_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_bQNDRprvpus_c007_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_bQNDRprvpus_c007_008.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_bQNDRprvpus_c008_002.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_bQNDRprvpus_c008_003.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_bQNDRprvpus_c008_007.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_bQNDRprvpus_c008_008.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_bQNDRprvpus_c009_002.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_bQNDRprvpus_c009_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_bQNDRprvpus_c009_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_bQNDRprvpus_c010_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_cLvwGLrAheU_c001_005.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_cLvwGLrAheU_c002_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_cLvwGLrAheU_c002_009.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_cLvwGLrAheU_c003_002.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_cLvwGLrAheU_c003_006.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_cLvwGLrAheU_c005_005.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_cLvwGLrAheU_c007_011.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_cLvwGLrAheU_c008_010.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_cLvwGLrAheU_c008_012.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_cLvwGLrAheU_c009_003.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_cLvwGLrAheU_c009_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_cLvwGLrAheU_c009_013.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_cLvwGLrAheU_c009_019.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_cLvwGLrAheU_c010_003.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_cLvwGLrAheU_c010_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_cLvwGLrAheU_c010_007.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_cLvwGLrAheU_c010_011.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_en2wx__oWmE_c001_010.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_en2wx__oWmE_c002_010.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_en2wx__oWmE_c002_013.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_en2wx__oWmE_c003_003.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_en2wx__oWmE_c003_005.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_en2wx__oWmE_c004_003.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_en2wx__oWmE_c004_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_en2wx__oWmE_c004_008.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_en2wx__oWmE_c004_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_en2wx__oWmE_c004_020.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_en2wx__oWmE_c004_025.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_en2wx__oWmE_c005_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_en2wx__oWmE_c006_002.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_en2wx__oWmE_c007_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_en2wx__oWmE_c007_003.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_en2wx__oWmE_c007_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_en2wx__oWmE_c007_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_en2wx__oWmE_c007_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_en2wx__oWmE_c008_001.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_en2wx__oWmE_c010_004.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_en2wx__oWmE_c010_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_f6a3B499nwY_c001_012.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_f6a3B499nwY_c001_013.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_f6a3B499nwY_c001_018.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_f6a3B499nwY_c002_007.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_f6a3B499nwY_c003_007.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_f6a3B499nwY_c003_013.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_f6a3B499nwY_c003_017.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_f6a3B499nwY_c004_006.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_f6a3B499nwY_c004_012.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_f6a3B499nwY_c004_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_f6a3B499nwY_c007_002.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_f6a3B499nwY_c007_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_f6a3B499nwY_c007_010.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_f6a3B499nwY_c007_011.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_f6a3B499nwY_c008_001.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_f6a3B499nwY_c009_005.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_f6a3B499nwY_c009_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_f6a3B499nwY_c010_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c003_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c003_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c003_014.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_fL2LfHQIwsY_c003_015.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_fL2LfHQIwsY_c003_021.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_fL2LfHQIwsY_c004_009.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_fL2LfHQIwsY_c004_028.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_fL2LfHQIwsY_c004_029.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_fL2LfHQIwsY_c004_030.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_fL2LfHQIwsY_c004_032.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_fL2LfHQIwsY_c004_041.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c004_042.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_fL2LfHQIwsY_c004_044.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c004_047.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c005_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c005_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_fL2LfHQIwsY_c005_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c005_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c007_002.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_fL2LfHQIwsY_c008_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_fL2LfHQIwsY_c010_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_gdtetu4nnZc_c001_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_gdtetu4nnZc_c001_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_gdtetu4nnZc_c001_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_gdtetu4nnZc_c001_023.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_gdtetu4nnZc_c001_027.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_gdtetu4nnZc_c002_003.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_gdtetu4nnZc_c002_018.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_gdtetu4nnZc_c004_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_gdtetu4nnZc_c004_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_gdtetu4nnZc_c006_003.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_gdtetu4nnZc_c006_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_gdtetu4nnZc_c006_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_gdtetu4nnZc_c006_012.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_gdtetu4nnZc_c006_013.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_gdtetu4nnZc_c006_017.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_gdtetu4nnZc_c010_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_gdtetu4nnZc_c010_008.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_gdtetu4nnZc_c010_010.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_hDBjIvCw7Kk_c001_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_hDBjIvCw7Kk_c002_001.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_hDBjIvCw7Kk_c002_002.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_hDBjIvCw7Kk_c002_004.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_hDBjIvCw7Kk_c004_009.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_hDBjIvCw7Kk_c005_004.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_hDBjIvCw7Kk_c005_007.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_hDBjIvCw7Kk_c005_009.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_hDBjIvCw7Kk_c006_016.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_hDBjIvCw7Kk_c006_017.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_hDBjIvCw7Kk_c008_001.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_hDBjIvCw7Kk_c008_008.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_hDBjIvCw7Kk_c008_009.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_hDBjIvCw7Kk_c008_015.avi
+val5///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble steal/v_hDBjIvCw7Kk_c009_008.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_hDBjIvCw7Kk_c010_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c001_009.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c001_015.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_iO0QqaR5E24_c001_017.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c002_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c002_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c002_009.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c002_016.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c002_019.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c003_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c003_009.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_iO0QqaR5E24_c003_016.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_iO0QqaR5E24_c004_007.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_iO0QqaR5E24_c005_001.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_iO0QqaR5E24_c005_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c006_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c006_011.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_iO0QqaR5E24_c006_012.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_iO0QqaR5E24_c007_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c007_007.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_iO0QqaR5E24_c007_009.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_iO0QqaR5E24_c007_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c007_011.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_iO0QqaR5E24_c007_015.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_iO0QqaR5E24_c008_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c008_013.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_iO0QqaR5E24_c008_025.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_iO0QqaR5E24_c009_003.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_iO0QqaR5E24_c010_001.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_iO0QqaR5E24_c010_009.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_iO0QqaR5E24_c010_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_icDf81dWZHw_c002_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_icDf81dWZHw_c002_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_icDf81dWZHw_c002_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_icDf81dWZHw_c002_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_icDf81dWZHw_c002_014.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_icDf81dWZHw_c003_001.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_icDf81dWZHw_c003_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_icDf81dWZHw_c006_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_icDf81dWZHw_c006_013.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_icDf81dWZHw_c008_001.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_icDf81dWZHw_c008_005.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_icDf81dWZHw_c008_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_icDf81dWZHw_c011_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_icDf81dWZHw_c011_015.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_icDf81dWZHw_c012_010.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_icDf81dWZHw_c012_013.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_icDf81dWZHw_c012_016.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_icDf81dWZHw_c012_018.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c001_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c003_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c003_013.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_jZY5cZWGWKE_c003_014.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c003_015.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c003_018.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_jZY5cZWGWKE_c003_025.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_jZY5cZWGWKE_c003_033.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_jZY5cZWGWKE_c004_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_jZY5cZWGWKE_c006_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c006_002.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_jZY5cZWGWKE_c006_009.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_jZY5cZWGWKE_c006_010.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_jZY5cZWGWKE_c006_011.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c006_012.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c009_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZY5cZWGWKE_c009_006.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_jZY5cZWGWKE_c009_011.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_jZY5cZWGWKE_c010_007.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_jZY5cZWGWKE_c010_010.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_jZY5cZWGWKE_c010_012.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_jZY5cZWGWKE_c010_014.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c001_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c001_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_jZj2UkglB9E_c001_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_jZj2UkglB9E_c001_009.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_jZj2UkglB9E_c001_012.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c002_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_jZj2UkglB9E_c002_010.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_jZj2UkglB9E_c002_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c003_001.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_jZj2UkglB9E_c003_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c004_003.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_jZj2UkglB9E_c004_009.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_jZj2UkglB9E_c005_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c006_002.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_jZj2UkglB9E_c008_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c008_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_jZj2UkglB9E_c008_008.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_jZj2UkglB9E_c008_013.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_jZj2UkglB9E_c008_017.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_jZj2UkglB9E_c009_001.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_jZj2UkglB9E_c009_010.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_jZj2UkglB9E_c010_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_jZj2UkglB9E_c010_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_kguAFIlDI4E_c011_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_kguAFIlDI4E_c012_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_kguAFIlDI4E_c013_005.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_kguAFIlDI4E_c013_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_kguAFIlDI4E_c013_010.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_l4OIaX8_D10_c001_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l4OIaX8_D10_c001_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l4OIaX8_D10_c002_004.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l4OIaX8_D10_c002_005.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_l4OIaX8_D10_c002_007.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_l4OIaX8_D10_c002_014.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_l4OIaX8_D10_c002_028.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l4OIaX8_D10_c003_003.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l4OIaX8_D10_c003_007.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_l4OIaX8_D10_c003_017.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_l4OIaX8_D10_c006_007.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_l4OIaX8_D10_c007_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_l4OIaX8_D10_c007_004.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_l4OIaX8_D10_c007_010.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l4OIaX8_D10_c008_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l4OIaX8_D10_c009_004.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_l4OIaX8_D10_c009_005.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_l4OIaX8_D10_c009_008.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_l4OIaX8_D10_c009_012.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_l4OIaX8_D10_c010_006.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_l9wUr-CK1Y4_c001_001.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l9wUr-CK1Y4_c001_007.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l9wUr-CK1Y4_c001_008.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_l9wUr-CK1Y4_c002_007.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_l9wUr-CK1Y4_c004_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l9wUr-CK1Y4_c008_006.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_l9wUr-CK1Y4_c008_009.avi
+val6///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/drive/v_l9wUr-CK1Y4_c008_016.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_l9wUr-CK1Y4_c009_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_l9wUr-CK1Y4_c009_015.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_l9wUr-CK1Y4_c010_006.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_lkZY0naa0-o_c001_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_lkZY0naa0-o_c002_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c002_007.avi
+val11///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass steal/v_lkZY0naa0-o_c002_010.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_lkZY0naa0-o_c003_002.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_lkZY0naa0-o_c003_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_lkZY0naa0-o_c004_003.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_lkZY0naa0-o_c004_011.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_lkZY0naa0-o_c004_012.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c005_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c005_008.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_lkZY0naa0-o_c005_009.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_lkZY0naa0-o_c006_006.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c006_009.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c006_015.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_lkZY0naa0-o_c007_005.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c009_002.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c009_004.avi
+val1///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/3-point shot/v_lkZY0naa0-o_c009_005.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_lkZY0naa0-o_c009_016.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_lkZY0naa0-o_c009_018.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_lkZY0naa0-o_c010_004.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_rYquruzj9hc_c001_002.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_rYquruzj9hc_c001_012.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_rYquruzj9hc_c001_019.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_rYquruzj9hc_c001_025.avi
+val2///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/block/v_rYquruzj9hc_c002_002.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_rYquruzj9hc_c002_004.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_rYquruzj9hc_c002_012.avi
+val9///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/offensive rebound/v_rYquruzj9hc_c002_014.avi
+val12///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass-inbound/v_rYquruzj9hc_c002_018.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_rYquruzj9hc_c003_008.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_rYquruzj9hc_c004_003.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_rYquruzj9hc_c004_006.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_rYquruzj9hc_c004_007.avi
+val3///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/defensive rebound/v_rYquruzj9hc_c004_008.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_rYquruzj9hc_c004_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_rYquruzj9hc_c004_014.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_rYquruzj9hc_c004_017.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_rYquruzj9hc_c005_004.avi
+val0///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/2-point shot/v_rYquruzj9hc_c006_007.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_rYquruzj9hc_c006_008.avi
+val14///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/sag/v_rYquruzj9hc_c007_013.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_rYquruzj9hc_c007_024.avi
+val7///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/free throw/v_rYquruzj9hc_c009_001.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_rYquruzj9hc_c009_003.avi
+val4///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/dribble/v_rYquruzj9hc_c009_005.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_rYquruzj9hc_c009_008.avi
+val10///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pass/v_rYquruzj9hc_c009_011.avi
+val15///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/screen/v_rYquruzj9hc_c010_004.avi
+val13///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/pick-and-roll defensive/v_rYquruzj9hc_c010_005.avi
+val8///home/mmlab206/61347023S/Datasets/Multisports_sorted_video/interfere shot/v_rYquruzj9hc_c010_009.avi
