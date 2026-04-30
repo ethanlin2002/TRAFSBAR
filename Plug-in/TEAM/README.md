@@ -1,5 +1,7 @@
 # TEAM [CVPR 2025]
 
+<img width="3652" height="2109" alt="Image" src="https://github.com/user-attachments/assets/97018441-53c1-4ad3-9967-f60ba39908cf" />
+
 ### Installation
 
 ```
