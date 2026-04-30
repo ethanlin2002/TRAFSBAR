@@ -2,7 +2,7 @@
  
 <img width="3652" height="2109" alt="Image" src="https://github.com/user-attachments/assets/a87cba19-fbe2-47a5-b792-70ad39c38442" />
   
-## Installation
+### Installation
 
 ```
 conda create -n TAMT python=3.6.10
