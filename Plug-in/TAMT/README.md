@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ```
 
-### 2.Dataset
+### Dataset
   
   Put the data the same with your filelist:  
 ```
@@ -21,7 +21,7 @@ finesports
 ├── FreeThrow
 └── Basket
 ```
-### 3.Train and Test
+### Train and Test
   Run following commands to start training or testing:
 
 ```
