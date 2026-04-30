@@ -2,13 +2,13 @@
 
 <img width="3652" height="2109" alt="Image" src="https://github.com/user-attachments/assets/97018441-53c1-4ad3-9967-f60ba39908cf" />
 
-### Installation
+### Preprocess
 
 ```
 bash tool/preprocess.sh
 ```
 
-### 2. Install dependencies or Use docker
+### Installation
 ```
 conda create -n TEAM python=3.10
 
@@ -17,7 +17,7 @@ conda activate TEAM
 pip install -r requirements.txt
 ```
 
-### 3. Training & Testing
+### Training & Testing
 
 ```
 bash scripts/run_fine.sh
