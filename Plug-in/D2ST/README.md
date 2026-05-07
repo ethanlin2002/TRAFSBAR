@@ -1,4 +1,4 @@
-# D2ST [ICCV 2025]
+# D2ST-Adapter [ICCV 2025]
 
 <img width="3652" height="2109" alt="Image" src="https://github.com/user-attachments/assets/e329c442-40fb-4c98-9957-bcf91e610d88" />
 
